@@ -1,0 +1,8 @@
+
+<Child>
+  <Person>
+    <fullname lang="RUS">Sergey</fullname>
+    <Age>null</Age>
+  </Person>
+  <test>test1</test>
+</Child>
